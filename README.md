@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tyagivarshit04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ikOpqdEbi-2v_-L-O9CUovUE1FWe3kO2/view?usp=sharing](https://drive.google.com/file/d/1ikOpqdEbi-2v_-L-O9CUovUE1FWe3kO2/view?usp=sharing)
+- 📄 My Resume  [https://drive.google.com/file/d/1ikOpqdEbi-2v_-L-O9CUovUE1FWe3kO2/view?usp=sharing](https://drive.google.com/file/d/1ikOpqdEbi-2v_-L-O9CUovUE1FWe3kO2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
