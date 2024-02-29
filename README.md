@@ -1,6 +1,6 @@
-#   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Hi 👋, I'm Varshit 
+# # Centered Content  Hi 👋, I'm Varshit 
                                     
-##   &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                               A passionate frontend developer from India     
+##  # Centered Content                           A passionate frontend developer from India     
 
 
                                                            
