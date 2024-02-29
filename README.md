@@ -1,4 +1,4 @@
-   #    # &nbsp&nbsp   Hi 👋, I'm Varshit Tyagi 
+   #   Hi 👋, I'm Varshit Tyagi 
                                     
   ##                                   A passionate frontend developer from India     
 
