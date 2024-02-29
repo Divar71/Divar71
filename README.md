@@ -1,4 +1,7 @@
-### Hi 👋, I'm Varshit Tyagi
+
+
+<div align=”center”> [ ### Hi 👋, I'm Varshit Tyagi ]</div> 
+
 
 A passionate frontend developer from India
 
