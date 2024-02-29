@@ -1,6 +1,6 @@
 
 
- ###  <div align=”center”> Hi 👋, I'm Varshit Tyagi </div> 
+ ## Hi 👋, I'm Varshit Tyagi 
 
 
 A passionate frontend developer from India
