@@ -1,10 +1,8 @@
-# Centered Content  Hi 👋, I'm Varshit 
+#   Hi 👋, I'm Varshit 
                                     
-# Centered Content                           A passionate frontend developer from India     
+##                      A passionate frontend developer from India     
 
-# Centered Content
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
                                                            
