@@ -1,6 +1,6 @@
-   ##   Hi 👋, I'm Varshit 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ##   Hi 👋, I'm Varshit 
                                     
-  ###                                   A passionate frontend developer from India     
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ###                                   A passionate frontend developer from India     
 
 
                                                            
