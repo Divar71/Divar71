@@ -5,12 +5,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me : **tyagivarshit04@gmail.com**
+- 📫 How to reach me **tyagivarshit04@gmail.com**
 
-- 📄 My Resume : [https://drive.google.com/file/d/1ikOpqdEbi-2v_-L-O9CUovUE1FWe3kO2/view?usp=sharing](https://drive.google.com/file/d/1ikOpqdEbi-2v_-L-O9CUovUE1FWe3kO2/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ikOpqdEbi-2v_-L-O9CUovUE1FWe3kO2/view?usp=sharing](https://drive.google.com/file/d/1ikOpqdEbi-2v_-L-O9CUovUE1FWe3kO2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/divar_71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divar_71" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/varshit-tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshit-tyagi" height="30" width="40" /></a>
 <a href="https://instagram.com/varshit_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varshit_07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/divar_71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divar_71" height="30" width="40" /></a>
